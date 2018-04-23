@@ -1,7 +1,7 @@
 # BillionairesUS
 R scripts to scrape and plot data on billionaires in the United States
 
-I noticed the following chart on Wikipedia's [list of U.S. states by number of billionaires](https://en.wikipedia.org/wiki/List_of_U.S._states_by_the_number_of_billionaires).
+I noticed the following chart on Wikipedia's [list of U.S. states by number of billionaires](images/Map_of_each_states_billionaires_as_of_2016.png).
 
 ![Billionaires by State](https://en.wikipedia.org/wiki/List_of_U.S._states_by_the_number_of_billionaires#/media/File:Map_of_each_state%27s_billionaires_as_of_2016.svg)
 
